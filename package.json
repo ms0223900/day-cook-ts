@@ -19,7 +19,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "enzyme": "^3.10.0",
     "graphql": "^14.5.8",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router": "^5.1.2",
